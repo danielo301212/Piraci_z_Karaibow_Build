@@ -4,7 +4,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="PzK Build" 
 version="1.0.0" 
-url="https://www.dropbox.com/scl/fi/699gxyqkvbfcpzabhdoru/kodi-piraty.zip?rlkey=iw4fjtoxsqrpwelp9cjneb6s5&dl=1"
+url="https://www.dropbox.com/scl/fi/6qxkcw74xvsij6o7o9pse/kodi-piraty.zip?rlkey=8doryp3rtcb9d94x8ah0scx3l&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 

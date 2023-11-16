@@ -4,7 +4,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="PzK Build" 
 version="1.0.6" 
-url="https://terabox.com/s/18sfPtTy5gMbDOLqaXPK4JQ"
+url="https://terabox.com/s/18sfPtTy5gMbDOLqaXPK4JQ1"
 minor="http://"
 gui="http://"
 kodi="20.2" 

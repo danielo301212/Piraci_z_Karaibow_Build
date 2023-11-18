@@ -4,7 +4,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="PzK Build" 
 version="1.0.1" 
-url="https://www.dropbox.com/scl/fi/xwyp1alarfpw5661i941q/OSTATNIE-KODI-DANIELA.zip?rlkey=m9uwe5muty1jly7hulw4ug7wm&dl=1"
+url="https://www.dropbox.com/scl/fi/mdiz8nk8qpl3o8ohb3dqk/PIRACJI-JU-KONIEC.zip?rlkey=393u43vfppg0kzqjimi25c3ix&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 

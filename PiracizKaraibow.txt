@@ -4,7 +4,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="PzK Build" 
 version="1.0.0" 
-url="https://www.dropbox.com/scl/fi/mdiz8nk8qpl3o8ohb3dqk/PIRACJI-JU-KONIEC.zip?rlkey=393u43vfppg0kzqjimi25c3ix&dl=1"
+url="https://www.dropbox.com/scl/fi/l4taprq2jivw205mo1uqt/build.zip?rlkey=tgfumj77dg7mxqd8sqqzc83la&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 

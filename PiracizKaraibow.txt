@@ -3,8 +3,8 @@ version="2.0.7"
 zip="https://shorturl.at/dAIRV" 
 
 name="PzK Build" 
-version="1.0.1" 
-url="https://www.dropbox.com/scl/fi/iihhka2uj3mdymzrkan3s/fina-piraty.zip?rlkey=b1w4ir5weie72f681t0adyx4u&dl=1"
+version="1.0.0" 
+url="https://www.dropbox.com/scl/fi/8gbmb9d9d5o6f86p3572f/piraci-fina.zip?rlkey=yff8f7tc0owqi2xpqu4pnas0a&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 
@@ -14,7 +14,7 @@ fanart="https://TUTAJ LINK DO GRAFIKI TŁO"
 preview="https://" 
 adult="no" 
 info="http://" 
-description="PzK Build V.1.0.1"
+description="PzK Build V.1.0.0"
 
 
 

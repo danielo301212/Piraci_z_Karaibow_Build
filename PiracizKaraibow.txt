@@ -16,7 +16,5 @@ adult="no"
 info="http://" 
 description="PzK Build V.1.0.0"
 
-id="plugin.program.KodiDaniela" 
-version="2.0.7" 
-zip="https://shorturl.at/dAIRV" 
+
 

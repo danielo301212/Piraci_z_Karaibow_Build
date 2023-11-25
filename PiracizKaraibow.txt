@@ -3,7 +3,7 @@ version="2.0.7"
 zip="https://shorturl.at/dAIRV" 
 
 name="PzK Build" 
-version="1.0.0" 
+version="1.0.1" 
 url="https://www.dropbox.com/scl/fi/l20g4gw0mcz43i6vevee2/PIRACI-FINA-JU-NIE-RUSZA.zip?rlkey=l62yaq40bmyckj7rv0938y0sl&dl=1"
 minor="http://"
 gui="http://"
@@ -14,7 +14,7 @@ fanart="https://TUTAJ LINK DO GRAFIKI TŁO"
 preview="https://" 
 adult="no" 
 info="http://" 
-description="PzK Build V.1.0.0"
+description="PzK Build V.1.0.1"
 
 
 

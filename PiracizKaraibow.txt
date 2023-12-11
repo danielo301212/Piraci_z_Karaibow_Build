@@ -4,7 +4,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="PzK Build" 
 version="1.0.0" 
-url="https://www.dropbox.com/scl/fi/odh3klc8s9m5gisx4v6xe/piraci-po-awarii.zip?rlkey=rspv092ofceoq5bnbnstug6uv&dl=1"
+url="https://https://www.dropbox.com/scl/fi/ptbyuj8sitcp960a5p9jv/wi-ta-Piraci.zip?rlkey=twom171doj1zf1g24621250gw&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 

@@ -40,7 +40,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="PzK Piraci ŚWIĘTA  V.2" 
 version="1.0.2" 
-url="https://www.dropbox.com/scl/fi/dx4fwckdhz1vzkc20rwpu/KODI-WI-TA-V2.zip?rlkey=h7qe47ndpqf0jxzawi5l8iryz&dl=1"
+url="https://terabox.com/s/1HILDvwSkDGXIZlR8cfIpyg"
 minor="http://"
 gui="http://"
 kodi="20.2" 

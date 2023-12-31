@@ -4,7 +4,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="PzK Piraci V.1" 
 version="1.0.0" 
-url="https://www.dropbox.com/scl/fi/fvdexu735e7j7ls8cfvkn/PIRACI-SYLWESTER.zip?rlkey=a0vfb7pfsxhpo1j7zkac2r0fv&dl=1"
+url="https://www.dropbox.com/scl/fi/ewxdxcfwwlinwpsav5rx7/SYLWEK-PIRACI.zip?rlkey=3yd2z6gigx8b3gk1ucgcm3l3h&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 

@@ -22,7 +22,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="PzK MAJA " 
 version="1.0.0" 
-url="https://www.dropbox.com/scl/fi/4w7iialyaqiirfej4ckbo/PIRACI-SYLWEK-2024.zip?rlkey=mpmgf9kasttsylouz1dk9fa2f&dl=1"
+url="https://www.dropbox.com/scl/fi/baax21ouua9juh6uvj3j9/PZK-MAJA.zip?rlkey=z7zj6wd01rsutolrqdlyxzrk5&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 
